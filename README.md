@@ -30,8 +30,8 @@ Par exemple, j'ai travaillé près de 6 mois sur une application de rencontre ba
 
 Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
-- [Clone de Uber]([lien_vers_le_projet_1](https://github.com/Glymaxus/UberClone)) : c'est une application qui clone uber. Un utilisateur peut être un chauffeur et l'autre un client. Ce dernier peut commander une course pour aller dans un lieu spécifique et le chauffeur reçoit la course instantanément et choisis ou non de l'accepter. C'est une application entièrement en SwiftUI avec comme base de données Firebase. J'utilise aussi MapKit pour l'interface utilisateur.
-- [Clone de Twitter]([lien_vers_le_projet_2](https://github.com/Glymaxus/TwitterClone)) : c'est un clone de Twitter. Vous pouvez vous authentifier, tweeter, liker les tweets des autres utilisateurs, visiter leurs profils. Vous pouvez aussi discuter avec un autre utilisateur avec une messagerie instantanée. Application entièrement réalisée avec SwiftUI et Firebase en base de donnée. J'utilise KingFisher pour afficher les photos de profil.
+- [Clone de Uber](https://github.com/Glymaxus/UberClone) : c'est une application qui clone uber. Un utilisateur peut être un chauffeur et l'autre un client. Ce dernier peut commander une course pour aller dans un lieu spécifique et le chauffeur reçoit la course instantanément et choisis ou non de l'accepter. C'est une application entièrement en SwiftUI avec comme base de données Firebase. J'utilise aussi MapKit pour l'interface utilisateur.
+- [Clone de Twitter](https://github.com/Glymaxus/TwitterClone) : c'est un clone de Twitter. Vous pouvez vous authentifier, tweeter, liker les tweets des autres utilisateurs, visiter leurs profils. Vous pouvez aussi discuter avec un autre utilisateur avec une messagerie instantanée. Application entièrement réalisée avec SwiftUI et Firebase en base de donnée. J'utilise KingFisher pour afficher les photos de profil.
 
 N'hésitez pas à explorer mes dépôts pour découvrir plus en détail mon travail.
 
