@@ -37,7 +37,7 @@ N'hésitez pas à explorer mes dépôts pour découvrir plus en détail mon trav
 
 ## Contact
 
-- **LinkedIn :** [Ton profil LinkedIn](https://www.linkedin.com/in/bastien-giat/)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bastien-giat/)
 - **Email :** bastiengiat@gmail.com
 
 N'hésitez pas à me contacter si vous avez des questions, des suggestions ou si vous souhaitez simplement discuter du développement iOS. Je suis toujours ouvert aux nouvelles opportunités de collaboration et d'apprentissage.
